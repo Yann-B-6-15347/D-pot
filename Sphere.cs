@@ -4,6 +4,6 @@ public class Sphere : MonoBehaviour
 {
   private void Start()
   {
-    Debug.Log("Fares est  nul");
+    Debug.Log("Fares est nul");
   }
 }
